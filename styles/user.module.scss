@@ -1,0 +1,13 @@
+.user {
+    padding: 20px 0;
+
+    h1 {
+        margin-bottom: 20px;
+        color: red;
+    }
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
